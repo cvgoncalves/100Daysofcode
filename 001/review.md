@@ -86,7 +86,7 @@ def get_models(automaker, year):
 ```
 
 
-My code didn't test right, I don't really know why though. ~~I'll look at it later!! :)~~
+My code didn't test right, I don't really know why though. ~~I'll look at it later!! :grinning:~~
 
 Tomorrow it's a new challenge!!!
 
